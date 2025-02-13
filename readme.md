@@ -3,3 +3,5 @@
 ### Derde niveau van titel
 
 ook online kunnen we dingen aanpassen
+
+maar ook lokaal kunnen we verder
