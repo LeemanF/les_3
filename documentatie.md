@@ -4,3 +4,5 @@
 in deze branch wordt documentatie.md aangepast
 
 Code A is een print statement
+
+Code B is een print statement
