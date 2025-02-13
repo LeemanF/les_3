@@ -5,3 +5,5 @@
 ook online kunnen we dingen aanpassen
 
 maar ook lokaal kunnen we verder
+
+via de gui kan het ook
